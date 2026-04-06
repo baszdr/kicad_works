@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-16042024-024866";"";
+"REFERENCE";"5023860470";"";
+"TraceParts.PartTitle";"CLIK-Mate";"";
+"TraceParts.InstanceId";"90-16042024-0248662N3XX9WWY2MK673V115V3T3RA";"";
+"SUPPLIER";"Molex";"";
+"DESIGN";"1.25mm Pitch CLIK-Mate Wire-to-Board PCB Receptacle, Single Row, Right-Angle, Tin (Sn) Plating, 4 Circuits";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.2";"";

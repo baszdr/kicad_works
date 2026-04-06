@@ -1,0 +1,2 @@
+false Single-ended gtl no l2 false 0 50.00 +/-10% 7.90 0 0 1
+false Differential gtl no l2 false 0 90.00 +/-10% 7.40 7.21 0 2
